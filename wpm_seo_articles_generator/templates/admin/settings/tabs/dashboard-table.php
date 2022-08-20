@@ -41,33 +41,33 @@
 		</div>
 	</div>
     <div class="wpm-section-content">
-        <div class="wpm-section-title">Help with activation</div>
+        <div class="wpm-section-title">Activation Keys</div>
         <div class="wpm-section-body">
             <div class="wpm-section-body-list">
                 <div class="wpm-section-body-list-block">
                     <div class="wpm-section-body-list-block-gray">
-                        <div class="wpm-section-body-list-block-gray-title">Where get Activation Key?</div>
-                        <div class="wpm-section-body-list-block-gray-description">You can purchase activation key on a special website</div>
+                        <div class="wpm-section-body-list-block-gray-title">50 Points</div>
+                        <div class="wpm-section-body-list-block-gray-description">Lite package for small blogs or if you need not much articles</div>
                         <div class="wpm-section-body-list-block-gray-button">
-                            <a href="https://turingseo.test.onfastspring.com/generate-article-key" target="_blank">Buy license</a>
+                            <a href="https://wpmasters.test.onfastspring.com/50-ai-generated-posts" target="_blank">Buy license</a>
                         </div>
                     </div>
                 </div>
                 <div class="wpm-section-body-list-block">
                     <div class="wpm-section-body-list-block-gray">
-                        <div class="wpm-section-body-list-block-gray-title">Points are over</div>
-                        <div class="wpm-section-body-list-block-gray-description">You need buy new License key and activate it to get again new points</div>
+                        <div class="wpm-section-body-list-block-gray-title">100 Points</div>
+                        <div class="wpm-section-body-list-block-gray-description">Optimal package for medium size blogs and regular updates</div>
                         <div class="wpm-section-body-list-block-gray-button">
-                            <a href="https://turingseo.test.onfastspring.com/generate-article-key" target="_blank">Buy license</a>
+                            <a href="https://wpmasters.test.onfastspring.com/100-ai-generated-posts" target="_blank">Buy license</a>
                         </div>
                     </div>
                 </div>
                 <div class="wpm-section-body-list-block">
                     <div class="wpm-section-body-list-block-gray">
-                        <div class="wpm-section-body-list-block-gray-title">Multiple website using key</div>
-                        <div class="wpm-section-body-list-block-gray-description">Only one key is can be used per one website. You can purchase another key</div>
+                        <div class="wpm-section-body-list-block-gray-title">500 Points</div>
+                        <div class="wpm-section-body-list-block-gray-description">Pro package for big professional blogs and much content</div>
                         <div class="wpm-section-body-list-block-gray-button">
-                            <a href="https://turingseo.test.onfastspring.com/generate-article-key" target="_blank">Buy license</a>
+                            <a href="https://wpmasters.test.onfastspring.com/500-ai-generated-posts" target="_blank">Buy license</a>
                         </div>
                     </div>
                 </div>
